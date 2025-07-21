@@ -1,6 +1,6 @@
 # Arabic-pos-tagging
-## Dataset link : "https://www.kaggle.com/datasets/amlhassan/ud-arabic-padt"
-## Notebook link : "https://www.kaggle.com/code/mohammedbahgat/arabic-pos-tagging-on-conll-u-data?scriptVersionId=251509236"
+#### 1- Dataset link : "https://www.kaggle.com/datasets/amlhassan/ud-arabic-padt"
+#### 2- Notebook link : "https://www.kaggle.com/code/mohammedbahgat/arabic-pos-tagging-on-conll-u-data?scriptVersionId=251509236"
 
 A pipeline for Arabic Part-of-Speech tagging using RNN and LSTM models on CoNLL-U formatted data, with NetworkX graph representation for visualizing word relationships and syntactic structures in Arabic text.  Built specifically for Arabic dialect processing (Egyptian, Levantine, Gulf, Maghrebi) 
 
