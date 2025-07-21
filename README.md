@@ -50,10 +50,4 @@ Each data sample contains:
 
 4- Graph Generation: NetworkX integration for syntactic relationship visualization
 
-## Performance Metrics
-Accuracy: Token-level and sentence-level accuracy measurement
-
-F1-Score: Weighted and macro-averaged performance metrics
-
-Processing Speed: Optimized for real-time article processing
 
